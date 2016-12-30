@@ -17,7 +17,7 @@
 		text-align:center;
 		word-spacing:0;
 		position:relative;
-		-webkit-transition: background 2s;
+		<!-- -webkit-transition: background 2s; -->
 		-webkit-perspective: 1200px;
 		-moz-perspective: 1200px;
 		-ms-perspective: 1200px;
@@ -34,7 +34,7 @@
 			text-decoration:none;
 			color:#efc7c8;
 			z-index:999 !important;
-			-webkit-transition: background 2s;
+			<!-- -webkit-transition: background 2s;-->
 		}
 		#banner .circle-1{margin-top:97px;}
 		#banner .circle-2{margin-top:12px; margin-left:-55px;}
